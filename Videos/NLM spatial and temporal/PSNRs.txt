@@ -1,0 +1,71 @@
+Current parameters: 
+ Video = football_cif.y4m 
+ Noise level = 0.1 
+ Denoised frames = 150
+
+Current nlm time parameters: 
+ Sigma NLM = 0.05 
+ Patch size = 3
+ Patch distance = 5
+ Number of frames = 3
+PSNR nlm spatial and temporal: 27.172438551786335
+
+
+Current parameters: 
+ Video = crew_cif.y4m 
+ Noise level = 0.1 
+ Denoised frames = 150
+
+Current nlm time parameters: 
+ Sigma NLM = 0.05 
+ Patch size = 3
+ Patch distance = 5, Number of frames = 3
+PSNR nlm spatial and temporal: 28.281619613817504
+
+
+Current parameters: 
+ Video = city_cif.y4m 
+ Noise level = 0.1 
+ Denoised frames = 150
+
+Current nlm time parameters: 
+ Sigma NLM = 0.05 
+ Patch size = 3
+ Patch distance = 5, Number of frames = 3
+PSNR nlm spatial and temporal: 26.03520959440453
+
+
+Current parameters: 
+ Video = football_cif.y4m 
+ Noise level = 0.1 
+ Denoised frames = 150
+
+Current nlm time parameters: 
+ Sigma NLM = 0.05 
+ Patch size = 3
+ Patch distance = 5, Number of frames = 5
+PSNR nlm spatial and temporal: 26.54539818733292
+
+
+Current parameters: 
+ Video = crew_cif.y4m 
+ Noise level = 0.1 
+ Denoised frames = 150
+
+Current nlm time parameters: 
+ Sigma NLM = 0.05 
+ Patch size = 3
+ Patch distance = 5, Number of frames = 5
+PSNR nlm spatial and temporal: 28.035593941838414
+
+
+Current parameters: 
+ Video = city_cif.y4m 
+ Noise level = 0.1 
+ Denoised frames = 150
+
+Current nlm time parameters: 
+ Sigma NLM = 0.05 
+ Patch size = 3
+ Patch distance = 5, Number of frames = 5
+PSNR nlm spatial and temporal: 25.89892570522261
