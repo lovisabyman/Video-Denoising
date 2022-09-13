@@ -1,0 +1,300 @@
+Current parameters: 
+ Video = football_cif.y4m 
+ Noise level = 0.05 
+ Denoised frames = 150
+
+Current lld parameters: 
+ Number of averaged frames = 3
+
+PSNR averaging: 22.461235464178817
+
+
+Current parameters: 
+ Video = crew_cif.y4m 
+ Noise level = 0.05 
+ Denoised frames = 150
+
+Current lld parameters: 
+ Number of averaged frames = 3
+
+PSNR averaging: 27.27364175061016
+
+
+Current parameters: 
+ Video = city_cif.y4m 
+ Noise level = 0.05 
+ Denoised frames = 150
+
+Current lld parameters: 
+ Number of averaged frames = 3
+
+PSNR averaging: 26.026198996169864
+
+
+Current parameters: 
+ Video = football_cif.y4m 
+ Noise level = 0.05 
+ Denoised frames = 150
+
+Current lld parameters: 
+ Number of averaged frames = 5
+
+PSNR averaging: 21.257670624248547
+
+
+Current parameters: 
+ Video = crew_cif.y4m 
+ Noise level = 0.05 
+ Denoised frames = 150
+
+Current lld parameters: 
+ Number of averaged frames = 5
+
+PSNR averaging: 26.650453748080746
+
+
+Current parameters: 
+ Video = city_cif.y4m 
+ Noise level = 0.05 
+ Denoised frames = 150
+
+Current lld parameters: 
+ Number of averaged frames = 5
+
+PSNR averaging: 24.919185321834235
+
+
+
+Current parameters: 
+ Video = football_cif.y4m 
+ Noise level = 0.05 
+ Denoised frames = 150
+
+Current lld parameters: 
+ Number of averaged frames = 7
+
+PSNR averaging: 20.592025897355164
+
+
+Current parameters: 
+ Video = crew_cif.y4m 
+ Noise level = 0.05 
+ Denoised frames = 150
+
+Current lld parameters: 
+ Number of averaged frames = 7
+
+PSNR averaging: 25.85869820723236
+
+
+Current parameters: 
+ Video = city_cif.y4m 
+ Noise level = 0.05 
+ Denoised frames = 150
+
+Current lld parameters: 
+ Number of averaged frames = 7
+
+PSNR averaging: 24.151047173412582
+
+
+Current parameters: 
+ Video = football_cif.y4m 
+ Noise level = 0.1 
+ Denoised frames = 150
+
+Current lld parameters: 
+ Number of averaged frames = 3
+
+PSNR averaging: 20.827207338986838
+
+
+Current parameters: 
+ Video = crew_cif.y4m 
+ Noise level = 0.1 
+ Denoised frames = 150
+
+Current lld parameters: 
+ Number of averaged frames = 3
+
+PSNR averaging: 23.612488017240096
+
+
+Current parameters: 
+ Video = city_cif.y4m 
+ Noise level = 0.1 
+ Denoised frames = 150
+
+Current lld parameters: 
+ Number of averaged frames = 3
+
+PSNR averaging: 22.983428223808996
+
+
+Current parameters: 
+ Video = football_cif.y4m 
+ Noise level = 0.1 
+ Denoised frames = 150
+
+Current lld parameters: 
+ Number of averaged frames = 5
+
+PSNR averaging: 20.37857216239335
+
+
+Current parameters: 
+ Video = crew_cif.y4m 
+ Noise level = 0.1 
+ Denoised frames = 150
+
+Current lld parameters: 
+ Number of averaged frames = 5
+
+PSNR averaging: 24.3192135975505
+
+
+Current parameters: 
+ Video = city_cif.y4m 
+ Noise level = 0.1 
+ Denoised frames = 150
+
+Current lld parameters: 
+ Number of averaged frames = 5
+
+PSNR averaging: 23.236227369271212
+
+
+
+Current parameters: 
+ Video = football_cif.y4m 
+ Noise level = 0.1 
+ Denoised frames = 150
+
+Current lld parameters: 
+ Number of averaged frames = 7
+
+PSNR averaging: 20.005552339244563
+
+
+Current parameters: 
+ Video = crew_cif.y4m 
+ Noise level = 0.1 
+ Denoised frames = 150
+
+Current lld parameters: 
+ Number of averaged frames = 7
+
+PSNR averaging: 24.290732790583785
+
+
+Current parameters: 
+ Video = city_cif.y4m 
+ Noise level = 0.1 
+ Denoised frames = 150
+
+Current lld parameters: 
+ Number of averaged frames = 7
+
+PSNR averaging: 23.062505474998503
+
+
+Current parameters: 
+ Video = football_cif.y4m 
+ Noise level = 0.15 
+ Denoised frames = 150
+
+Current lld parameters: 
+ Number of averaged frames = 3
+
+PSNR averaging: 19.15823817287716
+
+
+Current parameters: 
+ Video = crew_cif.y4m 
+ Noise level = 0.15 
+ Denoised frames = 150
+
+Current lld parameters: 
+ Number of averaged frames = 3
+
+PSNR averaging: 20.954432997643995
+
+
+Current parameters: 
+ Video = city_cif.y4m 
+ Noise level = 0.15 
+ Denoised frames = 150
+
+Current lld parameters: 
+ Number of averaged frames = 3
+
+PSNR averaging: 20.410597325286634
+
+
+
+Current parameters: 
+ Video = football_cif.y4m 
+ Noise level = 0.15 
+ Denoised frames = 150
+
+Current lld parameters: 
+ Number of averaged frames = 5
+
+PSNR averaging: 19.335048062521064
+
+
+Current parameters: 
+ Video = crew_cif.y4m 
+ Noise level = 0.15 
+ Denoised frames = 150
+
+Current lld parameters: 
+ Number of averaged frames = 5
+
+PSNR averaging: 22.225691074528815
+
+
+Current parameters: 
+ Video = city_cif.y4m 
+ Noise level = 0.15 
+ Denoised frames = 150
+
+Current lld parameters: 
+ Number of averaged frames = 5
+
+PSNR averaging: 21.423481212950602
+
+
+Current parameters: 
+ Video = football_cif.y4m 
+ Noise level = 0.15 
+ Denoised frames = 150
+
+Current lld parameters: 
+ Number of averaged frames = 7
+
+PSNR averaging: 19.25498521891712
+
+
+Current parameters: 
+ Video = crew_cif.y4m 
+ Noise level = 0.15 
+ Denoised frames = 150
+
+Current lld parameters: 
+ Number of averaged frames = 7
+
+PSNR averaging: 22.66278872510667
+
+
+Current parameters: 
+ Video = city_cif.y4m 
+ Noise level = 0.15 
+ Denoised frames = 150
+
+Current lld parameters: 
+ Number of averaged frames = 7
+
+PSNR averaging: 21.733678248290886
+
+

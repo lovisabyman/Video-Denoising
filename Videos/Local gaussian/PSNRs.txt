@@ -1,0 +1,642 @@
+Current parameters: 
+ Video = football_cif.y4m 
+ Noise level = 0.05 
+ Denoised frames = 150
+
+Current lgd parameters: 
+ Number of frames = 5 
+ Gaussian std = 0.5
+
+PSNR gaussian averaging: 26.72813456143205
+
+
+Current parameters: 
+ Video = crew_cif.y4m 
+ Noise level = 0.05 
+ Denoised frames = 150
+
+Current lgd parameters: 
+ Number of frames = 5 
+ Gaussian std = 0.5
+
+PSNR gaussian averaging: 27.633434052383986
+
+
+Current parameters: 
+ Video = city_cif.y4m 
+ Noise level = 0.05 
+ Denoised frames = 150
+
+Current lgd parameters: 
+ Number of frames = 5 
+ Gaussian std = 0.5
+
+PSNR gaussian averaging: 27.49230587474925
+
+
+Current parameters: 
+ Video = football_cif.y4m 
+ Noise level = 0.05 
+ Denoised frames = 150
+
+Current lgd parameters: 
+ Number of frames = 5 
+ Gaussian std = 1
+
+PSNR gaussian averaging: 23.498072367699088
+
+
+Current parameters: 
+ Video = crew_cif.y4m 
+ Noise level = 0.05 
+ Denoised frames = 150
+
+Current lgd parameters: 
+ Number of frames = 5 
+ Gaussian std = 1
+
+PSNR gaussian averaging: 28.078964897540196
+
+
+Current parameters: 
+ Video = city_cif.y4m 
+ Noise level = 0.05 
+ Denoised frames = 150
+
+Current lgd parameters: 
+ Number of frames = 5 
+ Gaussian std = 1
+
+PSNR gaussian averaging: 26.86894589614719
+
+Current parameters: 
+ Video = football_cif.y4m 
+ Noise level = 0.05 
+ Denoised frames = 150
+
+Current lgd parameters: 
+ Number of frames = 5 
+ Gaussian std = 5
+
+PSNR gaussian averaging: 21.361987161088233
+
+
+Current parameters: 
+ Video = crew_cif.y4m 
+ Noise level = 0.05 
+ Denoised frames = 150
+
+Current lgd parameters: 
+ Number of frames = 5 
+ Gaussian std = 5
+
+PSNR gaussian averaging: 26.748567471871265
+
+
+Current parameters: 
+ Video = city_cif.y4m 
+ Noise level = 0.05 
+ Denoised frames = 150
+
+Current lgd parameters: 
+ Number of frames = 5 
+ Gaussian std = 5
+
+PSNR gaussian averaging: 25.027407734676412
+
+Current parameters: 
+ Video = football_cif.y4m 
+ Noise level = 0.1 
+ Denoised frames = 150
+
+Current lgd parameters: 
+ Number of frames = 5 
+ Gaussian std = 0.5
+
+PSNR gaussian averaging: 21.73680847877639
+
+
+Current parameters: 
+ Video = crew_cif.y4m 
+ Noise level = 0.1 
+ Denoised frames = 150
+
+Current lgd parameters: 
+ Number of frames = 5 
+ Gaussian std = 0.5
+
+PSNR gaussian averaging: 22.009645465228843
+
+
+Current parameters: 
+ Video = city_cif.y4m 
+ Noise level = 0.1 
+ Denoised frames = 150
+
+Current lgd parameters: 
+ Number of frames = 5 
+ Gaussian std = 0.5
+
+PSNR gaussian averaging: 21.809286146897282
+
+
+Current parameters: 
+ Video = football_cif.y4m 
+ Noise level = 0.1 
+ Denoised frames = 150
+
+Current lgd parameters: 
+ Number of frames = 5 
+ Gaussian std = 1
+
+PSNR gaussian averaging: 21.715648867275995
+
+
+Current parameters: 
+ Video = crew_cif.y4m 
+ Noise level = 0.1 
+ Denoised frames = 150
+
+Current lgd parameters: 
+ Number of frames = 5 
+ Gaussian std = 1
+
+PSNR gaussian averaging: 24.32788595788834
+
+
+Current parameters: 
+ Video = city_cif.y4m 
+ Noise level = 0.1 
+ Denoised frames = 150
+
+Current lgd parameters: 
+ Number of frames = 5 
+ Gaussian std = 1
+
+PSNR gaussian averaging: 23.72954800002167
+
+
+Current parameters: 
+ Video = football_cif.y4m 
+ Noise level = 0.1 
+ Denoised frames = 150
+
+Current lgd parameters: 
+ Number of frames = 5 
+ Gaussian std = 5
+
+PSNR gaussian averaging: 20.462582026980755
+
+
+Current parameters: 
+ Video = crew_cif.y4m 
+ Noise level = 0.1 
+ Denoised frames = 150
+
+Current lgd parameters: 
+ Number of frames = 5 
+ Gaussian std = 5
+
+PSNR gaussian averaging: 24.376290968536466
+
+
+Current parameters: 
+ Video = city_cif.y4m 
+ Noise level = 0.1 
+ Denoised frames = 150
+
+Current lgd parameters: 
+ Number of frames = 5 
+ Gaussian std = 5
+
+PSNR gaussian averaging: 23.307714283090043
+
+
+Current parameters: 
+ Video = football_cif.y4m 
+ Noise level = 0.15 
+ Denoised frames = 150
+
+Current lgd parameters: 
+ Number of frames = 5 
+ Gaussian std = 0.5
+
+PSNR gaussian averaging: 18.60682023804033
+
+
+Current parameters: 
+ Video = crew_cif.y4m 
+ Noise level = 0.15 
+ Denoised frames = 150
+
+Current lgd parameters: 
+ Number of frames = 5 
+ Gaussian std = 0.5
+
+PSNR gaussian averaging: 18.796692722481822
+
+
+Current parameters: 
+ Video = city_cif.y4m 
+ Noise level = 0.15 
+ Denoised frames = 150
+
+Current lgd parameters: 
+ Number of frames = 5 
+ Gaussian std = 0.5
+
+PSNR gaussian averaging: 18.426862217172673
+
+Current parameters: 
+ Video = football_cif.y4m 
+ Noise level = 0.15 
+ Denoised frames = 150
+
+Current lgd parameters: 
+ Number of frames = 5 
+ Gaussian std = 1
+
+PSNR gaussian averaging: 19.942987590827688
+
+
+Current parameters: 
+ Video = crew_cif.y4m 
+ Noise level = 0.15 
+ Denoised frames = 150
+
+Current lgd parameters: 
+ Number of frames = 5 
+ Gaussian std = 1
+
+PSNR gaussian averaging: 21.62061713833768
+
+
+Current parameters: 
+ Video = city_cif.y4m 
+ Noise level = 0.15 
+ Denoised frames = 150
+
+Current lgd parameters: 
+ Number of frames = 5 
+ Gaussian std = 1
+
+PSNR gaussian averaging: 21.10591616146377
+
+
+Current parameters: 
+ Video = football_cif.y4m 
+ Noise level = 0.15 
+ Denoised frames = 150
+
+Current lgd parameters: 
+ Number of frames = 5 
+ Gaussian std = 5
+
+PSNR gaussian averaging: 19.39890040535686
+
+
+Current parameters: 
+ Video = crew_cif.y4m 
+ Noise level = 0.15 
+ Denoised frames = 150
+
+Current lgd parameters: 
+ Number of frames = 5 
+ Gaussian std = 5
+
+PSNR gaussian averaging: 22.26104370612208
+
+
+Current parameters: 
+ Video = city_cif.y4m 
+ Noise level = 0.15 
+ Denoised frames = 150
+
+Current lgd parameters: 
+ Number of frames = 5 
+ Gaussian std = 5
+
+PSNR gaussian averaging: 21.46888041299638
+
+
+Current parameters: 
+ Video = football_cif.y4m 
+ Noise level = 0.05 
+ Denoised frames = 150
+
+Current lgd parameters: 
+ Number of frames = 3 
+ Gaussian std = 1
+
+PSNR gaussian averaging: 23.77384276258279
+
+
+Current parameters: 
+ Video = crew_cif.y4m 
+ Noise level = 0.05 
+ Denoised frames = 150
+
+Current lgd parameters: 
+ Number of frames = 3 
+ Gaussian std = 1
+
+PSNR gaussian averaging: 27.9355678425579
+
+
+Current parameters: 
+ Video = city_cif.y4m 
+ Noise level = 0.05 
+ Denoised frames = 150
+
+Current lgd parameters: 
+ Number of frames = 3 
+ Gaussian std = 1
+
+PSNR gaussian averaging: 26.954982845258577
+
+
+Current parameters: 
+ Video = football_cif.y4m 
+ Noise level = 0.05 
+ Denoised frames = 150
+
+Current lgd parameters: 
+ Number of frames = 5 
+ Gaussian std = 1
+
+PSNR gaussian averaging: 23.49824848904151
+
+
+Current parameters: 
+ Video = crew_cif.y4m 
+ Noise level = 0.05 
+ Denoised frames = 150
+
+Current lgd parameters: 
+ Number of frames = 5 
+ Gaussian std = 1
+
+PSNR gaussian averaging: 28.07944976666842
+
+
+Current parameters: 
+ Video = city_cif.y4m 
+ Noise level = 0.05 
+ Denoised frames = 150
+
+Current lgd parameters: 
+ Number of frames = 5 
+ Gaussian std = 1
+
+PSNR gaussian averaging: 26.868972957545875
+
+
+Current parameters: 
+ Video = football_cif.y4m 
+ Noise level = 0.05 
+ Denoised frames = 150
+
+Current lgd parameters: 
+ Number of frames = 7 
+ Gaussian std = 1
+
+PSNR gaussian averaging: 23.480147235620112
+
+
+Current parameters: 
+ Video = crew_cif.y4m 
+ Noise level = 0.05 
+ Denoised frames = 150
+
+Current lgd parameters: 
+ Number of frames = 7 
+ Gaussian std = 1
+
+PSNR gaussian averaging: 28.0856310870616
+
+
+Current parameters: 
+ Video = city_cif.y4m 
+ Noise level = 0.05 
+ Denoised frames = 150
+
+Current lgd parameters: 
+ Number of frames = 7 
+ Gaussian std = 1
+
+PSNR gaussian averaging: 26.862993277361397
+
+
+Current parameters: 
+ Video = football_cif.y4m 
+ Noise level = 0.1 
+ Denoised frames = 150
+
+Current lgd parameters: 
+ Number of frames = 3 
+ Gaussian std = 1
+
+PSNR gaussian averaging: 21.606459381951485
+
+
+Current parameters: 
+ Video = crew_cif.y4m 
+ Noise level = 0.1 
+ Denoised frames = 150
+
+Current lgd parameters: 
+ Number of frames = 3 
+ Gaussian std = 1
+
+PSNR gaussian averaging: 23.757878201893387
+
+
+Current parameters: 
+ Video = city_cif.y4m 
+ Noise level = 0.1 
+ Denoised frames = 150
+
+Current lgd parameters: 
+ Number of frames = 3 
+ Gaussian std = 1
+
+PSNR gaussian averaging: 23.28156940466523
+
+Current parameters: 
+ Video = football_cif.y4m 
+ Noise level = 0.1 
+ Denoised frames = 150
+
+Current lgd parameters: 
+ Number of frames = 5 
+ Gaussian std = 1
+
+PSNR gaussian averaging: 21.714000934338927
+
+
+Current parameters: 
+ Video = crew_cif.y4m 
+ Noise level = 0.1 
+ Denoised frames = 150
+
+Current lgd parameters: 
+ Number of frames = 5 
+ Gaussian std = 1
+
+PSNR gaussian averaging: 24.32760414127807
+
+
+Current parameters: 
+ Video = city_cif.y4m 
+ Noise level = 0.1 
+ Denoised frames = 150
+
+Current lgd parameters: 
+ Number of frames = 5 
+ Gaussian std = 1
+
+PSNR gaussian averaging: 23.72921609332104
+
+
+Current parameters: 
+ Video = football_cif.y4m 
+ Noise level = 0.1 
+ Denoised frames = 150
+
+Current lgd parameters: 
+ Number of frames = 7 
+ Gaussian std = 1
+
+PSNR gaussian averaging: 21.725476455057844
+
+
+Current parameters: 
+ Video = crew_cif.y4m 
+ Noise level = 0.1 
+ Denoised frames = 150
+
+Current lgd parameters: 
+ Number of frames = 7 
+ Gaussian std = 1
+
+PSNR gaussian averaging: 24.3709356171691
+
+
+Current parameters: 
+ Video = city_cif.y4m 
+ Noise level = 0.1 
+ Denoised frames = 150
+
+Current lgd parameters: 
+ Number of frames = 7 
+ Gaussian std = 1
+
+PSNR gaussian averaging: 23.76453117749147
+
+
+Current parameters: 
+ Video = football_cif.y4m 
+ Noise level = 0.15 
+ Denoised frames = 150
+
+Current lgd parameters: 
+ Number of frames = 3 
+ Gaussian std = 1
+
+PSNR gaussian averaging: 19.58821223868371
+
+
+Current parameters: 
+ Video = crew_cif.y4m 
+ Noise level = 0.15 
+ Denoised frames = 150
+
+Current lgd parameters: 
+ Number of frames = 3 
+ Gaussian std = 1
+
+PSNR gaussian averaging: 20.914626713422887
+
+
+Current parameters: 
+ Video = city_cif.y4m 
+ Noise level = 0.15 
+ Denoised frames = 150
+
+Current lgd parameters: 
+ Number of frames = 3 
+ Gaussian std = 1
+
+PSNR gaussian averaging: 20.447413553430554
+
+
+Current parameters: 
+ Video = football_cif.y4m 
+ Noise level = 0.15 
+ Denoised frames = 150
+
+Current lgd parameters: 
+ Number of frames = 5 
+ Gaussian std = 1
+
+PSNR gaussian averaging: 19.939608631375286
+
+
+Current parameters: 
+ Video = crew_cif.y4m 
+ Noise level = 0.15 
+ Denoised frames = 150
+
+Current lgd parameters: 
+ Number of frames = 5 
+ Gaussian std = 1
+
+PSNR gaussian averaging: 21.620304925788126
+
+
+Current parameters: 
+ Video = city_cif.y4m 
+ Noise level = 0.15 
+ Denoised frames = 150
+
+Current lgd parameters: 
+ Number of frames = 5 
+ Gaussian std = 1
+
+PSNR gaussian averaging: 21.102540855949556
+
+
+Current parameters: 
+ Video = football_cif.y4m 
+ Noise level = 0.15 
+ Denoised frames = 150
+
+Current lgd parameters: 
+ Number of frames = 7 
+ Gaussian std = 1
+
+PSNR gaussian averaging: 19.96807209517927
+
+
+Current parameters: 
+ Video = crew_cif.y4m 
+ Noise level = 0.15 
+ Denoised frames = 150
+
+Current lgd parameters: 
+ Number of frames = 7 
+ Gaussian std = 1
+
+PSNR gaussian averaging: 21.67890405196699
+
+
+Current parameters: 
+ Video = city_cif.y4m 
+ Noise level = 0.15 
+ Denoised frames = 150
+
+Current lgd parameters: 
+ Number of frames = 7 
+ Gaussian std = 1
+
+PSNR gaussian averaging: 21.15851896842993
